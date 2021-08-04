@@ -2,7 +2,7 @@
 - I'm pursuing my BE in CSE (3rd year).
 - I’m currently learning Web Development and App Development.
 - I plan on learning Data Science in the near future
-- You can reach me on my mail: laureenfernandes212@gmail.com
+- You can reach me on my mail: laureen.fern@gmail.com
 
 <!---
 laureenf/laureenf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
