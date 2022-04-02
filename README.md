@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Laureen Fernandes!
-- I'm pursuing my BE in CSE (3rd year).
-- I’m currently learning Web Development and App Development.
-- I plan on learning Data Science in the near future
+👋 Hi, I’m Laureen Fernandes!
+- Currently pursuing BE in CSE (4th year).
 - You can reach me on my mail: laureen.fern@gmail.com
-
-* HackerRank & HackerEarth Username: laureenf
+- HackerRank/LeetCode Username: laureenf
 
 <!---
 laureenf/laureenf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
